@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>zhaoningsheng on Ningsheng Zhao</title>
+    <link>https://zhaoningsheng.github.io/authors/zhaoningsheng/</link>
+    <description>Recent content in zhaoningsheng on Ningsheng Zhao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Ningsheng Zhao</copyright>
+    
+	<atom:link href="https://zhaoningsheng.github.io/authors/zhaoningsheng/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://zhaoningsheng.github.io/author/zhaoningsheng/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhaoningsheng.github.io/author/zhaoningsheng/</guid>
+      <description>Ningsheng Zhao I am a PhD student in Information &amp;amp; Systems Engineering at Concordia University. I am supervised by Professor Jiayuan Yu. My research interest lies in Machine Learning, Reinforcement Learning, Graphical models and Statistical Modelling. I have a passion for building new models and algorithms. In the past one year, I was focusing on the research in a brand new bootstrap kernel mixture model for unsupervised learning, and an upgraded tree Boosting Monte Carlo algorithm for reinforcement learning.</description>
+    </item>
+    
+  </channel>
+</rss>
